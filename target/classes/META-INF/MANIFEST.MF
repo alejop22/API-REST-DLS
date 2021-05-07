@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Contingencia
+Build-Jdk: 11.0.11
+Implementation-Title: Fabric8 :: Quickstarts :: Spring-Boot :: Camel XML
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: org.mycompany
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/camel-ose-spri
+ ngboot-xml/
+Created-By: Maven Integration for Eclipse
+
